@@ -81,7 +81,7 @@ hr {
 /* Navigation */
 
 .navbar {
-    background: #ed4934;
+    background: #ff0000;
     border-color: #D32020;
 }
 
@@ -154,7 +154,7 @@ hr {
 .main .main-invite .signal {
     line-height: 16px;
     display: inline-block;
-    background: #ed4934;
+    background: #ff0000;
     padding: 5px;
     border-radius: 25px;
     color: #fff;
@@ -202,7 +202,7 @@ hr {
 }
 
 .main .main-date {
-    background: #ed4934;
+    background: #ff0000;
     padding-left: 10px;
     padding-top: 50px;
     padding-bottom: 40px;
@@ -276,7 +276,7 @@ hr {
 
 .about .love i {
     font-size: 130px;
-    color: #ed4934;
+    color: #ff0000;
 }
 
 .about .love h3 {
@@ -339,7 +339,7 @@ hr {
 
 .rsvp i {
     font-size: 120px;
-    color: #ed4934;
+    color: #ff0000;
 }
 
 .rsvp .well {
@@ -379,7 +379,7 @@ hr {
 
 .footer .copy a {
     text-decoration: none;
-    color: #ed4934;
+    color: #ff0000;
 }
 
 .footer .copy a:hover {
